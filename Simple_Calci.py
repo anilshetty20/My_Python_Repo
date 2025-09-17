@@ -1,0 +1,12 @@
+print("********** SIMPLE CALCULATOR **********")
+a=float(input("Enter the value of a = "))
+b=float(input("Enter the value of b = "))
+print("***** VALUES *****")
+print("Addition of ",a,"+",b,"=",a+b)
+print("Substraction of ",a,"-",b,"=",a-b)
+print("Multiplication of ",a,"*",b,"=",a*b)
+print("Division of ",a,"/",b,"=",a/b)
+print("Floor of ",a,"//",b,"=",a//b)
+print("Quotient of ",a,"%",b,"=",a%b)
+print("Exponential of ",a,"**",b,"=",a**b)
+
