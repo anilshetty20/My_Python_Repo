@@ -11,3 +11,4 @@ elif 17<=curr_hour<=20:
     print("Good Evening")
 else:
     print("Good Night")
+
