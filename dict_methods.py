@@ -7,4 +7,4 @@ print(ep1)
 ep1.pop(111)    #delets the firt key
 print(ep1)
 del ep1[444]    # this also del the key from the dict with del keyword
-print(ep1)  
+print(ep1)  # removes the key 444 and prints other items
